@@ -23,7 +23,6 @@ npm install
 3. Environment Variables Setup
 Create a .env file in the root directory of the project. Do not commit this file to version control. Add your specific keys and RPC URLs:
 
-مقتطف الرمز
 PRIVATE_KEY="your_wallet_private_key_here"
 RPC_URL="[http://127.0.0.1:7545](http://127.0.0.1:7545)" # Example for local Ganache network
 4. Running the Project
