@@ -1,0 +1,17 @@
+{
+  "name": "blockchain-ethers.js-assignemnt",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "ethers-tutorial": "node scripts/ethers-tutorial.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "ethers": "^6.16.0"
+  }
+}
